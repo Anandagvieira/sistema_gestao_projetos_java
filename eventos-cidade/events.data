@@ -1,0 +1,13 @@
+# Formato: id|nome|endereco|categoria|horario|descricao|participantes
+evt-003|Palestra Sustentabilidade Urbana|Auditório da Biblioteca Municipal|6|2026-05-01T14:00:00|Debate sobre reciclagem e mobilidade urbana com especialistas convidados.|ana.costa@email.com
+evt-002|Feira de Artesanato Local|Praça da Matriz - Centro|4|2026-05-05T09:00:00|Exposição de artesanato regional com barracas de comidas típicas.|
+evt-001|Corrida Cidade Unida|Parque Municipal - Av. das Flores, 500|1|2026-05-10T07:30:00|Corrida de 5 km aberta a todos os moradores da cidade.|maria.silva@email.com,joao.santos@email.com
+evt-004|Almoço Beneficente Comunitário|Salão Paroquial São José|5|2026-05-14T11:00:00|Encontro solidário com refeição gratuita para famílias da região.|maria.silva@email.com
+evt-005|Festival Gastronômico do Bairro|Rua das Palmeiras, 220 - Jardim Norte|7|2026-05-14T12:00:00|Degustação de pratos típicos preparados por chefs locais.|maria.silva@email.com,pedro.lima@email.com
+evt-006|Campeonato Amador de Futebol|Estádio Municipal|1|2026-05-16T15:00:00|Final do campeonato de bairros com transmissão local.|maria.silva@email.com
+evt-007|Show Sertanejo na Praça|Av. Central, 100 - Centro|2|2026-05-18T20:00:00|Apresentação ao ar livre com duplas sertanejas da região.|
+evt-008|Festa Junina do Colégio Esperança|Colégio Esperança - Rua do Comércio, 45|0|2026-05-22T18:00:00|Arraiá com quadrilha, barracas, fogueira simbólica e comidas típicas.|maria.silva@email.com
+evt-009|Exposição de Fotografia Urbana|Galeria Cultural Municipal|3|2026-05-25T10:00:00|Mostra fotográfica sobre a história e o cotidiano da cidade.|
+evt-010|Workshop de Programação para Jovens|Centro de Inovação - Tech Park|6|2026-05-28T09:00:00|Oficina introdutória de lógica de programação para estudantes do ensino médio.|
+evt-011|Noite Cultural com Teatro|Teatro Municipal|3|2026-06-02T19:30:00|Peça teatral com elenco local e entrada gratuita para moradores.|
+evt-012|Festival de Música na Praça|Av. Beira Rio, 300|2|2026-06-10T19:00:00|Show ao ar livre com bandas independentes e food trucks.|
